@@ -1,0 +1,11 @@
+	<Employee id="2">
+		<age>35</age>
+		<name>Lisa</name>
+		<gender>Female</gender>
+		<role>CEO</role>
+	</Employee>
+        
+        
+        <!-- This file just contains info on employee 2. No need to have XML headers,
+                format, dtd, etc. It assumes all of that from the file it is inluded
+                in. -->
